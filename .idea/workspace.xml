@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0149909b-50a3-4dec-98af-2ae6e5f3f742" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YuGskauO7YIdpf0vd3baBLZijy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_FILENAME": "H:/OnlineShoppingSystem",
+    "last_opened_file_path": "C:/Users/anuja/Desktop/W1985726_20222102",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\OnlineShoppingSystem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\OnlineShoppingSystem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OnlineShoppingSystem." />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0149909b-50a3-4dec-98af-2ae6e5f3f742" name="Changes" comment="" />
+      <created>1701368260592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701368260592</updated>
+      <workItem from="1701708863291" duration="242000" />
+      <workItem from="1701740914863" duration="48000" />
+      <workItem from="1701838090617" duration="825000" />
+      <workItem from="1701917489930" duration="107000" />
+      <workItem from="1702896551277" duration="26000" />
+      <workItem from="1702912216737" duration="365000" />
+      <workItem from="1702985188123" duration="24367000" />
+      <workItem from="1703011959927" duration="1179000" />
+      <workItem from="1703013410963" duration="55000" />
+      <workItem from="1703046492820" duration="6502000" />
+      <workItem from="1703053217540" duration="13852000" />
+      <workItem from="1703078628740" duration="6486000" />
+      <workItem from="1703432775006" duration="918000" />
+      <workItem from="1703691229787" duration="16750000" />
+      <workItem from="1703708715787" duration="89000" />
+      <workItem from="1703708859196" duration="218000" />
+      <workItem from="1703738474794" duration="102000" />
+      <workItem from="1703786868254" duration="6349000" />
+      <workItem from="1703827713011" duration="7312000" />
+      <workItem from="1703835427154" duration="3882000" />
+      <workItem from="1703839356653" duration="5192000" />
+      <workItem from="1703857113603" duration="12772000" />
+      <workItem from="1703870028535" duration="2692000" />
+      <workItem from="1704095011790" duration="987000" />
+      <workItem from="1704303440792" duration="240000" />
+      <workItem from="1704395048850" duration="1442000" />
+      <workItem from="1704551914015" duration="1203000" />
+      <workItem from="1704943817644" duration="241000" />
+      <workItem from="1704944120840" duration="42000" />
+      <workItem from="1704986787212" duration="17793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
